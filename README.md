@@ -10,6 +10,8 @@
 - 스타트업네트워크(https://startupinsight.kr/startup/)
 <img width="1439" alt="스타트업네트워크" src="https://user-images.githubusercontent.com/57355814/154926345-b9f1437e-9a8d-4d56-a963-e0cadd712edf.png" >
 
+---
+
 <br>
 ## 2. 스타트업NOW
 - 스타트업들의 기사를 분석해 주요 데일리 이슈맵 및 관련 기업을 보여주는 서비스
